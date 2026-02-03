@@ -4,6 +4,7 @@
 #include<vector>
 using namespace std;
 
+
 int main()
 {
 	int n;//number of magnets
@@ -25,3 +26,4 @@ int main()
 	}
 	cout<<groups;
 }
+
